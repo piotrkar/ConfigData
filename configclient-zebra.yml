@@ -1,3 +1,5 @@
 hello:
     master: zebra
 greeting: aloha
+top:
+    secret: '{cipher}AQAgBRggkqDzvFhQlxBcwgdvLgx391MlHFc99F+VCl7qSrcvkyTAXmbbfpfbKcbEEAqePmG3fwaztOoomFwecaBf+51fLe8sbpKqsMbHFb0z5NP91rnYrPy/J9cDjSK9P96dITHmK+esqqwJ7QTeFIJwoRl2xyJkB/IhSzGYRpCHIEIcV0mVFChhUKLycUHF7eGztMrFlGKoODN1sXWQlSrxAL8BHtKyihTJAlycxeMGg+AOmSSHzZHyguWWJws2Qx/rMkZnwXzmagHEG8VdBr5hkEE/xfB5baDkSkDuWG8A+qzWqKEhFN56wdJPhnAitBfmEdHbcLCug+iQ1/HBmRhmob/lJfUrj7T+qBqqWn9pMTp4dWAkETVKx5+rT/dAHU4='
